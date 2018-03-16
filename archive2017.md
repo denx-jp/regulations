@@ -1,6 +1,6 @@
 # 2017年度 DENX会則
 
-※以下の条文はアーカイブです。現在は失効しています。
+※以下の条文はアーカイブです。現在の会則は[こちら](https://github.com/denx-jp/regulations/blob/master/regulations.md)です。
 
 ## 第 1 章 総則
 ### 第 1 条 名称
