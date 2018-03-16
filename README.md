@@ -11,16 +11,16 @@
 
 ## 会則
 
-現在の会則は[こちら]()
+現在の会則は[こちら](https://github.com/denx-jp/regulations/blob/master/regulations.md)
 
 ## アーカイブ一覧
 
 過去年度に有効であった会則です。
 毎年、年度が変わる頃になったらアーカイブします。
 
-- [会則2012]()
-- [会則2016]()
-- [会則2017](https://github.com/denx-jp/regulations/blob/master/regulations2017.md)
+- [会則2012](https://github.com/denx-jp/regulations/blob/master/archive2012.md)
+- [会則2016](https://github.com/denx-jp/regulations/blob/master/archive2016.md)
+- [会則2017](https://github.com/denx-jp/regulations/blob/master/archive2017.md)
 
 ## 本リポジトリの管理について（現会員向け）
 
