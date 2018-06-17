@@ -1,5 +1,5 @@
 # Regulations
-![会則を破るとおしおきされちゃうぞ>□<](https://img.gifmagazine.net/gifmagazine/images/973195/original.gif)
+![会則を破るとおしおきされちゃうぞ>□<](https://lh3.googleusercontent.com/-m4dqqQNYhiU/VaJOnQkFy6I/AAAAAAAAAMo/x1mUtTEVCmw/w480-h270/bFPdyT8.gif)
 
 [同志社大学電気情報研究会](https://denx.jp/)の会則を管理するリポジトリです。
 
