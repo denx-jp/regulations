@@ -21,6 +21,7 @@
 - [会則2012](https://github.com/denx-jp/regulations/blob/master/archive2012.md)
 - [会則2016](https://github.com/denx-jp/regulations/blob/master/archive2016.md)
 - [会則2017](https://github.com/denx-jp/regulations/blob/master/archive2017.md)
+- [会則2020](https://github.com/denx-jp/regulations/blob/master/archive2020.md)
 
 ## 本リポジトリの管理について（現会員向け）
 
